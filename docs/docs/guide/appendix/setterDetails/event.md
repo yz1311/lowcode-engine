@@ -1,5 +1,5 @@
 ---
-title: EventSetter
+title: EventsSetter
 ---
 ## 简介
 可以将事件绑定在物料上
