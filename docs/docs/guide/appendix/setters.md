@@ -12,7 +12,7 @@ sidebar_position: 4
 | DateRangeSetter | | 日期型数据设置器，可选择时间区间 | |
 | DateSetter | | 日期型数据设置器 | |
 | DateYearSetter || 日期型 - 年数据设置器 | |
-| [EventSetter](./setterDetails/event) | function | 事件绑定设置器 | ![](https://img.alicdn.com/imgextra/i4/O1CN01qxIYiO1ksVknhTpnW_!!6000000004739-2-tps-1202-1014.png) |
+| [EventsSetter](./setterDetails/event) | function | 事件绑定设置器 | ![](https://img.alicdn.com/imgextra/i4/O1CN01qxIYiO1ksVknhTpnW_!!6000000004739-2-tps-1202-1014.png) |
 | [IconSetter](./setterDetails/icon) | string | 图标设置器 | ![](https://img.alicdn.com/imgextra/i3/O1CN01zsOMxo1TXaBmjHCRc_!!6000000002392-2-tps-1172-579.png) |
 | FunctionSetter | any | 函数型数据设置器 | ![](https://img.alicdn.com/imgextra/i4/O1CN01jLiJBo1ZIp7OmDLp0_!!6000000003172-2-tps-794-110.png) |
 | JsonSetter | object | json 型数据设置器 | ![](https://img.alicdn.com/imgextra/i2/O1CN01mQTFjY1YiBQzWYj64_!!6000000003092-2-tps-1076-1068.png) |
